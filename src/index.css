@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css2?family=Winky+Rough:ital,wght@0,300..900;1,300..900&display=swap");
+
+* {
+  font-family: "Winky Rough", sans-serif;
+}
+
+body {
+  background-color: #0f1035 !important;
+  color: rgb(255, 255, 255) !important;
+  font-family: "Winky Rough", sans-serif;
+}
+
+.button-one {
+  background-color: #dcf2f1 !important;
+  color: #0f1035 !important;
+  padding: 10px !important;
+  border: 2px solid #0f1035 !important;
+}
+.buttons {
+  background-color: #0f1035 !important;
+  padding: 10px !important;
+  border: none !important;
+}
+
+.button-one:hover {
+  background-color: #0f1035 !important;
+  color: #dcf2f1 !important;
+  border: 2px solid #dcf2f1 !important;
+}
+
+.buttons:hover {
+  background-color: #040423 !important;
+}
+
+.custom-table tbody {
+  background-color: #dcf2f1 !important;
+}
+
+.custom-table th {
+  background-color: #040423 !important;
+  color: white !important;
+}
+
+.custom-table td {
+  background-color: #ffffff !important;
+}
+.link-table {
+  text-decoration: none !important;
+  font-weight: 500;
+  color: #040423;
+}
+.link-table:hover {
+  font-weight: bold;
+}
